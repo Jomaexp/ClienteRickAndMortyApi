@@ -1,0 +1,87 @@
+body{
+	font-family: tahoma;
+    background-color: rgb(36, 62, 36);
+    color: white;
+}
+h3{
+	text-shadow: 2px 2px 7px black;
+}
+h1, h3, table{
+    text-align: center;
+    margin: 0px auto;
+}
+table, td, th{
+    border: 2px solid rgb(19, 105, 44);
+}
+
+th{
+    padding: 5px;
+}
+a{
+	color: white;
+}
+a:hover {
+	text-shadow: 2px 2px 7px rgb(187, 219, 196);
+}
+table a{
+	text-decoration: none;
+}
+div.volver{
+	clear: both;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 30px;
+	text-shadow: 2px 2px 7px black;
+}
+
+footer, h3{
+    clear: both;
+	text-align: center;
+    padding-top: 40px;
+	margin: 0 auto;
+}
+table{
+    border: 2px solid rgb(19, 105, 44);
+	width: 400px;
+	background-color:  rgb(3, 45, 16);
+	padding: 20px;
+	margin: auto;
+	margin-top: 10px;
+	border-radius: 8px;
+	box-shadow: 7px 13px 37px #000;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+#autor{
+    font-size:20px;
+}
+#izq{
+    text-align: center;
+    width: 50%;
+    float: left;
+}
+#dcha{
+    width:50%;
+    float: left;
+}
+#izq img{
+	display: block;
+	border: 2px solid rgb(19, 105, 44);
+	padding: 20px;
+	margin-top: 10px;
+	border-radius: 8px;
+	box-shadow: 7px 13px 37px #000;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+header{
+	width: 100%;
+}
+header img{
+	float: left;
+	width: 100%;
+}
