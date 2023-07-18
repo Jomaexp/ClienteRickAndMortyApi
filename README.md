@@ -4,6 +4,9 @@ Este es un cliente sencillo que utiliza la API de la web https://rickandmortyapi
 ---------IMPORTANTE---------------
 Este código contiene las url de mi servidor personal.
 Para cualquier uso habrá que cambiar estos enlaces para usar los de tu propio servidor.
+
+Para probar mi ejemplo subido ir a la dirección
+http://localhost/dwes/tarea9/cliente.php
 ----------------------------------
 
 Este cliente usa las funciones de la api:
