@@ -6,7 +6,7 @@ Este código contiene las url de mi servidor personal.
 Para cualquier uso habrá que cambiar estos enlaces para usar los de tu propio servidor.
 
 Para probar mi ejemplo subido ir a la dirección
-http://localhost/dwes/tarea9/cliente.php
+[http://localhost/dwes/tarea9/cliente.php](http://jomaexp.byethost7.com/DWES/TAREA9/clienteaw.php)
 ----------------------------------
 
 Este cliente usa las funciones de la api:
